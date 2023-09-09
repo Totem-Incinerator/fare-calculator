@@ -1,4 +1,4 @@
-# Problema1
+# Problema 1
 La persona que vende pasajes aéreos en la compañía de turismo “Elevados”,
 pierde mucho tiempo calculando el precio de los pasajes.
 Esto se debe a que el precio depende de: una tarifa básica, la temporada, la
