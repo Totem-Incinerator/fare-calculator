@@ -13,7 +13,6 @@ internal class Program
         byte PassengerAge;
         int Discount;
         int Increment;
-        int Total;
 
         string PassengerName;
         string CompanyName;
@@ -85,7 +84,7 @@ internal class Program
             BasicRate += Increment;
         }
 
-        if(PassengerAge >= 60 && CompanyName == "Volar")
+        if(PassengerAge >= 60 && CompanyName == "volar")
         {
             BasicRate += 10000;
         }
