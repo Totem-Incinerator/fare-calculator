@@ -20,7 +20,6 @@ internal class Program
         string TyperOfPassenger;
 
         bool ValidateInt;
-        bool ValidateString;
 
         Console.WriteLine("Ingrese la tarifa básica: ");
         ValidateInt = int.TryParse(Console.ReadLine(), out BasicRate);
